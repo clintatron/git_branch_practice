@@ -7,3 +7,4 @@
 * Treme
 * True Detective
 * Girls
+* Game of Thrones
