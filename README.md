@@ -5,6 +5,6 @@
 * The Sopranos
 * Boardwalk Empire
 * Treme
-* True Detective
+* True Detective 2
 * Girls
 * Game of Thrones
