@@ -4,6 +4,6 @@
 * The Sopranos
 * Boardwalk Empire
 * Treme
-* True Detective
+* True Blood 2
 * Girls
 * Game of Thrones
